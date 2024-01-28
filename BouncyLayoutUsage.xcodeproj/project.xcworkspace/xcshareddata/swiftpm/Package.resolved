@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "bouncylayout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/roberthein/BouncyLayout.git",
+      "state" : {
+        "revision" : "72773ac14234f30913dd0b207d76bcc39fff64fa",
+        "version" : "2.3.1"
+      }
+    }
+  ],
+  "version" : 2
+}
